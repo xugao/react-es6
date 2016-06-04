@@ -19,7 +19,8 @@
     "babel-preset-react": "^6.5.0",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
-    "webpack": "^1.13.1"
+    "webpack": "^1.13.1",
+    "css-loader": "^0.15.5"
   },
   "devDependencies": {
     "babel-eslint": "^6.0.4",
